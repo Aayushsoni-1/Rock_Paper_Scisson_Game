@@ -14,9 +14,9 @@ A fun and interactive Rock Paper Scissors game made with HTML, CSS, and JavaScri
 ├── style.css
 ├── main.js
 ├──Images  
-    ├── Rock.png
-    ├── Paper.png
-    └── Scissor.png
+        ├── Rock.png
+        ├── Paper.png
+        └── Scissor.png
 
 
 ## 🚀 How to Run
